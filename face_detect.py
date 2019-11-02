@@ -1,4 +1,5 @@
 import requests
+import os
 
 def face_detect(image):
    url = "https://api-us.faceplusplus.com/facepp/v3/detect"
